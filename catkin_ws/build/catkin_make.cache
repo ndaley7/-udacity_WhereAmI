@@ -1,2 +1,2 @@
-ball_chaser:my_robot:pgm_map_creator:teleop_twist_keyboard:udacity_bot
+pgm_map_creator:teleop_twist_keyboard:udacity_bot
 -DCATKIN_DEVEL_PREFIX=/home/robond/Desktop/UdacityProjects/WhereAmI/-udacity_WhereAmI/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/robond/Desktop/UdacityProjects/WhereAmI/-udacity_WhereAmI/catkin_ws/install -G Unix Makefiles
