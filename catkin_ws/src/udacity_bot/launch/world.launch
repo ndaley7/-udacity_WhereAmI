@@ -2,12 +2,12 @@
 
 <launch>
 <!-- Robot pose -->
-  <arg name="x" default="4.8"/>
+  <arg name="x" default="0.3"/>
   <arg name="y" default="2.97"/>
   <arg name="z" default="0.1"/>
   <arg name="roll" default="0"/>
   <arg name="pitch" default="0"/>
-  <arg name="yaw" default="0.5"/>
+  <arg name="yaw" default="0.0"/>
 
   <!-- Launch other relevant files-->
   <include file="$(find udacity_bot)/launch/robot_description.launch"/>
