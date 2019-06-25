@@ -34,8 +34,7 @@
 #Folders
 devel/
 build/
+teleop_twist_keyboard/
 
 #Files
 *.catkin_workspace
-
-catkin_ws/src/pgm_map_creator
